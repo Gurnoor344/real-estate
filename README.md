@@ -1,6 +1,6 @@
 
 
-## Macho Realtor
+##  Realtor
 
 
 ### Features
@@ -28,7 +28,7 @@
 * Bayut API  [Real Estate]
 * Newscatcher API [Global News]
 
-### Macho Realtor is hosted on Netlify
+
 
 
 
